@@ -70,7 +70,7 @@
 
         /* Hero Section */
         .hero-section {
-            background-image: url('https://substackcdn.com/image/fetch/$s_!L-HT!,w_1200,h_600,c_fill,f_jpg,q_auto:good,fl_progressive:steep,g_auto/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21076154-35d9-4332-8da2-c328a7929768_1024x1024.jpeg'); /* Placeholder image, replace with a relevant one */
+            background-image: url('images/aei008300-封面.jpg'); /* Placeholder image, replace with a relevant one */
             background-size: cover;
             background-position: center 30%; /* Adjusted for better focus */
             color: white;
