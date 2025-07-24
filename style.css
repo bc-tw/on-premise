@@ -47,7 +47,7 @@ body {
 .hero-section {
     background-color: #007bff;
     background-image: url('images/cover.jpg');
-    color: blue;
+    color: #FFFF99;
     padding: 100px 20px;
     text-align: center;
 }
