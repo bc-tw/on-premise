@@ -3,7 +3,6 @@ body {
     margin: 0;
     padding: 0;
     background-color: #f4f4f4;
-    background-image: url('images/cover.jpg');
     color: #333;
     line-height: 1.6;
 }
@@ -47,6 +46,7 @@ body {
 }
 .hero-section {
     background-color: #007bff;
+    background-image: url('images/cover.jpg');
     color: white;
     padding: 100px 20px;
     text-align: center;
